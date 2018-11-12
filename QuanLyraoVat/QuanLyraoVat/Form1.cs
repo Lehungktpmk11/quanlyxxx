@@ -24,8 +24,8 @@ namespace QuanLyraoVat
             try
             {
                 
-                string tk = "admin";
-                string mk = "123456";
+                string tk = txttaikhoan.Text;
+                string mk = txtmatkhau.Text;
                 if (tk == "" || mk == "")
                     MessageBox.Show("Chưa nhập đủ thông tin!", "Thông báo");
                 SqlConnection conn = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=QuanLyRaoVat;Integrated Security=True");

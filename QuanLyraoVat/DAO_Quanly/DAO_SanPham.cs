@@ -103,7 +103,7 @@ namespace DAO_Quanly
             DataTable dtsanpham = new DataTable();
             try
             {
-                string query = string.Format(" select * from SANPHAM where SPID like = '%{0}%'", ten);
+                string query = string.Format(" select * from SANPHAM where SPID like '%{0}%'", ten);
 
                 SqlDataAdapter da = new SqlDataAdapter(query, _conn);
                 
