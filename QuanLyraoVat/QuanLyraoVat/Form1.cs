@@ -26,7 +26,8 @@ namespace QuanLyraoVat
                 
                 string tk = "admin";
                 string mk = "123456";
-                if (tk == "" || mk == "") throw new Exception();
+                if (tk == "" || mk == "")
+                    MessageBox.Show("Chưa nhập đủ thông tin!", "Thông báo");
                 SqlConnection conn = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=QuanLyRaoVat;Integrated Security=True");
                 conn.Open();
                 string query = "select * from TKDANGNHAP where taiKhoan='" + tk + "' and matkhau='" + mk + "' ";
