@@ -197,7 +197,10 @@ namespace QuanLyraoVat
 
         private void txttimSanPham_KeyPress(object sender, KeyPressEventArgs e)
         {
-            dgvsanPham.DataSource = BusSP.search(txttimSanPham.Text);
+            if (e.KeyChar == (char)13)
+            {
+                dgvsanPham.DataSource = BusSP.search(txttimSanPham.Text);
+            }
         }
     }
 }
