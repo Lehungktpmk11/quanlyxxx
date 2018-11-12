@@ -1,0 +1,11 @@
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\bin\Debug\BUS_Quanly.dll
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\bin\Debug\BUS_Quanly.pdb
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\bin\Debug\DAO_Quanly.dll
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\bin\Debug\DTO_Quanly.dll
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\bin\Debug\DAO_Quanly.pdb
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\bin\Debug\DTO_Quanly.pdb
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\obj\Debug\BUS_Quanly.csprojAssemblyReference.cache
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\obj\Debug\BUS_Quanly.csproj.CoreCompileInputs.cache
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\obj\Debug\BUS_Quanly.csproj.CopyComplete
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\obj\Debug\BUS_Quanly.dll
+F:\Raovat\QuanLyRaoVat\BUS_Quanly\obj\Debug\BUS_Quanly.pdb

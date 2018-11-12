@@ -1,0 +1,5 @@
+F:\Raovat\QuanLyraoVat\DTO_Quanly\bin\Debug\DTO_Quanly.dll
+F:\Raovat\QuanLyraoVat\DTO_Quanly\bin\Debug\DTO_Quanly.pdb
+F:\Raovat\QuanLyraoVat\DTO_Quanly\obj\Debug\DTO_Quanly.csproj.CoreCompileInputs.cache
+F:\Raovat\QuanLyraoVat\DTO_Quanly\obj\Debug\DTO_Quanly.dll
+F:\Raovat\QuanLyraoVat\DTO_Quanly\obj\Debug\DTO_Quanly.pdb

@@ -1,0 +1,9 @@
+F:\Raovat\QuanLyraoVat\DAO_Quanly\obj\Debug\DAO_Quanly.csprojAssemblyReference.cache
+F:\Raovat\QuanLyraoVat\DAO_Quanly\obj\Debug\DAO_Quanly.csproj.CoreCompileInputs.cache
+F:\Raovat\QuanLyRaoVat\DAO_Quanly\bin\Debug\DAO_Quanly.dll
+F:\Raovat\QuanLyRaoVat\DAO_Quanly\bin\Debug\DAO_Quanly.pdb
+F:\Raovat\QuanLyRaoVat\DAO_Quanly\bin\Debug\DTO_Quanly.dll
+F:\Raovat\QuanLyRaoVat\DAO_Quanly\bin\Debug\DTO_Quanly.pdb
+F:\Raovat\QuanLyRaoVat\DAO_Quanly\obj\Debug\DAO_Quanly.csproj.CopyComplete
+F:\Raovat\QuanLyRaoVat\DAO_Quanly\obj\Debug\DAO_Quanly.dll
+F:\Raovat\QuanLyRaoVat\DAO_Quanly\obj\Debug\DAO_Quanly.pdb

@@ -1,0 +1,17 @@
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\bin\Debug\QuanLyraoVat.exe.config
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\bin\Debug\QuanLyraoVat.exe
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\bin\Debug\QuanLyraoVat.pdb
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\obj\Debug\QuanLyraoVat.frmdangnhap.resources
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\obj\Debug\QuanLyraoVat.Properties.Resources.resources
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\obj\Debug\QuanLyraoVat.exe
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\obj\Debug\QuanLyraoVat.pdb
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\obj\Debug\GUI.csprojAssemblyReference.cache
+F:\Raovat\QuanLyRaoVat\QuanLyraoVat\obj\Debug\QuanLyraoVat.fquanlyraovat.resources
+F:\Raovat\QuanLyraoVat\QuanLyraoVat\obj\Debug\QuanLyraoVat.fdonhang.resources
+F:\Raovat\QuanLyraoVat\QuanLyraoVat\obj\Debug\QuanLyraoVat.fkhachhang.resources
+F:\Raovat\QuanLyraoVat\QuanLyraoVat\bin\Debug\BUS.exe
+F:\Raovat\QuanLyraoVat\QuanLyraoVat\bin\Debug\BUS.pdb
+F:\Raovat\QuanLyraoVat\QuanLyraoVat\bin\Debug\BUS.exe.config
+F:\Raovat\QuanLyraoVat\QuanLyraoVat\obj\Debug\GUI.csproj.CopyComplete
